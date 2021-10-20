@@ -4,6 +4,7 @@ h1{
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
+  font-size: 40px;
 }
 
 *{
@@ -35,4 +36,17 @@ a:hover{
 
 li{
   padding-left: 100px;
+}
+
+h2{
+  color: green;
+  padding: 25px;
+  text-align: center;
+  font-size: 40px;
+  background-color: black;
+}
+
+p{
+  font-size: 19px;
+  padding: 15px;
 }
